@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  color-scheme: light dark;
+  --xRed: rgb(197, 1, 1);
+  --oBlack: rgb(68, 68, 68);
+  background-color: #242424;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+body,
+button,
+input {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}

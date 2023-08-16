@@ -1,0 +1,25 @@
+.App {
+  display: grid;
+  gap: 15px;
+  place-items: center;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+
+.btn {
+  background-color: black;
+  color: #fff;
+  padding: 15px;
+  box-shadow: 0 0 10px var(--oBlack);
+  border-radius: 10px;
+  margin: 10px;
+  border: none;
+
+  font-weight: normal;
+  cursor: pointer;
+}
+
+.btn:hover {
+  box-shadow: 0 0 10px #888;
+}
