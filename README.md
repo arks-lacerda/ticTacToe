@@ -9,7 +9,11 @@
 
 # Tic-Tac-Toe Game
 
+<p align="center">
+
 ![App](./.github/preview.gif)
+
+</p>
 
 <div id="Description">
 
