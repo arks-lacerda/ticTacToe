@@ -50,7 +50,7 @@ Before you begin, make sure you have Node.js and npm (Node Package Manager) inst
 #### Clone this repository
 
 ```bash
-$ git clone [https://github.com/arks-lacerda/](https://github.com/arks-lacerda/)
+$ git clone git@github.com:arks-lacerda/ticTacToe.git
 ```
 
 #### Access project folder in terminal/cmd
