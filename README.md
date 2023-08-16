@@ -7,9 +7,9 @@
  <a href="#MyLinkedIn">My LinkedIn</a>
 </p>
 
-# Tic-Tac-Toe Game
-
 <div align="center">
+
+# Tic-Tac-Toe Game
 
 ![App](./.github/preview.gif)
 
